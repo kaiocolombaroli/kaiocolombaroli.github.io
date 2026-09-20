@@ -1,11 +1,21 @@
-- title: Substitua pelo seu cargo/formação
-  from: 2022
-  to: present
-  description: Substitua por uma descrição curta dessa experiência ou formação —
-               o que você fez, aprendeu ou entregou nesse período.
+- title: Machine Learning Engineer PL, SantoDigital
+  from: jan 2026
+  to: presente
+  description: Engenharia de IA Generativa com foco em Python, LangChain e OpenAI SDK.
 
-- title: Substitua por outra experiência
-  from: 2020
-  to: 2022
-  description: Substitua por uma descrição curta dessa experiência ou formação —
-               o que você fez, aprendeu ou entregou nesse período.
+- title: Desenvolvedor, Under Protection
+  from: nov 2022
+  to: jan 2026
+  description: Progressão de estagiário a desenvolvedor Pleno. Desenvolvimento de automações
+               e Agentes de IA autônomos, incluindo um agente para triagem de incidentes de
+               segurança (SOC) que reduziu em 90% o tempo de resposta.
+
+- title: Estagiário, Under Protection
+  from: out 2022
+  to: nov 2022
+  description: Início da trajetória profissional em desenvolvimento de software.
+
+- title: Análise e Desenvolvimento de Sistemas, UNINTER
+  from: mar 2022
+  to: dez 2024
+  description: Curso Superior de Tecnologia (CST).

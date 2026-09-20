@@ -1,11 +1,12 @@
-- name: JavaScript / TypeScript
-  percentage: 80
+# Ajuste os percentuais como quiser, são só uma estimativa inicial
+- name: Python
+  percentage: 90
   color: danger
 
-- name: Python
-  percentage: 70
+- name: LangChain / OpenAI SDK
+  percentage: 85
   color:
 
-- name: HTML5 / CSS3
-  percentage: 85
+- name: Django
+  percentage: 75
   color: secondary

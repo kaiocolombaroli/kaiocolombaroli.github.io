@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Kaio Colombaroli
 description         : >-
-                      Desenvolvedor de Software.
+                      Engenheiro de IA Generativa | Python | LangChain | OpenAI
 baseurl             : ""
 repository          : kaiocolombaroli/kaiocolombaroli.github.io
 remote_theme        : yousinix/portfolYOU
@@ -24,9 +24,9 @@ nav_exclude:
 author:
   name              : Kaio Colombaroli
   image             : https://ui-avatars.com/api/?name=Kaio+Colombaroli&size=300&background=4f46e5&color=fff
-  email             : seu-email@exemplo.com
+  email             : kaiocolombaroli1@gmail.com
   github            : kaiocolombaroli
-  linkedin          : seu-usuario
+  linkedin          : kaiocolombaroli-b1bb64231
 
 
 ### Collections ###

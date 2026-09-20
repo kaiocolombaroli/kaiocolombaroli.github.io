@@ -1,7 +1,12 @@
-- name: Git
-  percentage: 80
+# Ajuste os percentuais como quiser, são só uma estimativa inicial
+- name: Agentes Autônomos / LLM
+  percentage: 85
   color: info
 
-- name: SQL
-  percentage: 70
+- name: Terraform
+  percentage: 65
   color: success
+
+- name: n8n
+  percentage: 75
+  color: warning
