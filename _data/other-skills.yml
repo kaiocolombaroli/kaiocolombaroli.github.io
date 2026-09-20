@@ -1,0 +1,7 @@
+- name: Git
+  percentage: 80
+  color: info
+
+- name: SQL
+  percentage: 70
+  color: success

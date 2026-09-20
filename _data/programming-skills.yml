@@ -1,0 +1,11 @@
+- name: JavaScript / TypeScript
+  percentage: 80
+  color: danger
+
+- name: Python
+  percentage: 70
+  color:
+
+- name: HTML5 / CSS3
+  percentage: 85
+  color: secondary
