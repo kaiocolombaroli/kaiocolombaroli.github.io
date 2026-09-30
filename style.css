@@ -384,6 +384,11 @@ p { margin: 0; }
   box-shadow: var(--shadow-sm);
 }
 
+.badge strong {
+  color: var(--text);
+  font-weight: 600;
+}
+
 .badge .dot {
   width: 8px;
   height: 8px;
