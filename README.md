@@ -8,7 +8,7 @@ Landing page de serviços (automação, software, agentes de IA e tráfego pago)
 - [index.html](index.html) — todas as seções da página
 - [style.css](style.css) — estilos (tokens de cor, sombra, fonte e transição no `:root`)
 - [script.js](script.js) — menu mobile, animação de entrada das seções, link ativo do menu e botão flutuante do WhatsApp
-- [favicon.svg](favicon.svg) — ícone da aba
+- [favicon.ico](favicon.ico), [favicon-192.png](favicon-192.png), [apple-touch-icon.png](apple-touch-icon.png) — ícones (foto de perfil)
 
 ## Como adicionar um projeto no portfólio
 
